@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Sales Analysis (Python + Pandas + NumPy)
+# 🛒 E-Commerce Sales Analysis (Python + Pandas + Matplotlib + Seaborn +NumPy)
 
 This project analyzes real-world e-commerce transaction data from a UK-based retailer using Python, Pandas, NumPy, and visualizations. The goal is to uncover trends in monthly sales, top-selling products, and geographic performance.
 
@@ -17,10 +17,6 @@ This project analyzes real-world e-commerce transaction data from a UK-based ret
 
 ## 📁 Dataset
 [Kaggle - E-Commerce Data](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
-
-## 📸 Sample Visualizations
-![Monthly Sales](screenshots/monthly_sales.png)
-![Top Products](screenshots/top_products.png)
 
 ## 🛠️ How to Run
 1. Clone the repo  
